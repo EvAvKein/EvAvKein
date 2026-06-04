@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/EvAvKein/hive_minirt/refs/heads/main/README_assets/eve_wallpaper.png"/>
+<img alt="A very artistic composition (if I made say so myself) of different colors, shapes, and patterns. A central light causes shapes to cast shadows on each other and on backgrounds" src="https://raw.githubusercontent.com/EvAvKein/hive_minirt/refs/heads/main/README_assets/eve_wallpaper.png"/>
 
 # Hi hi! 🖖
 
